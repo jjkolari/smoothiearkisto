@@ -1,0 +1,2 @@
+# smoothiearkisto
+Tikape harjoitustyö2
